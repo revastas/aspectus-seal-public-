@@ -1,0 +1,453 @@
+[
+  {
+    "label": "Genesis Block (height 0)",
+    "hex": "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26",
+    "hashOfHash": "7bfe26c2629cdddaa7fc9d96612c14c9930948af75b3390686dcbf265fc3ea47",
+    "seed": 2080253634,
+    "nodeCount": 2,
+    "edgeCount": 5,
+    "firstThreeNodes": [
+      {
+        "x": -0.599317,
+        "y": -0.586225,
+        "z": -0.582312
+      },
+      {
+        "x": -0.847594,
+        "y": 0.402759,
+        "z": -0.677763
+      }
+    ],
+    "firstThreeEdges": [
+      {
+        "a": 1,
+        "b": 1
+      },
+      {
+        "a": 1,
+        "b": 1
+      },
+      {
+        "a": 0,
+        "b": 0
+      }
+    ],
+    "paletteHues": [
+      185.1802,
+      294.8498,
+      42.0571
+    ],
+    "sealConnectionsDrawn": 0,
+    "firstConnectionColor": null
+  },
+  {
+    "label": "Block 968,331",
+    "hex": "000000000000000000021c8815dfc8cc150b179e0b6cfd7d664db072d9a62d69",
+    "hashOfHash": "3eb196cfbf6f5ed72a1dd71f3384df2b2fcae62e017db5574fbb16a8a193bad2",
+    "seed": 1051825871,
+    "nodeCount": 183,
+    "edgeCount": 396,
+    "firstThreeNodes": [
+      {
+        "x": 0.428387,
+        "y": 0.128463,
+        "z": -0.344727
+      },
+      {
+        "x": 0.158545,
+        "y": 0.058271,
+        "z": 0.182678
+      },
+      {
+        "x": -0.79837,
+        "y": 0.326216,
+        "z": -0.528796
+      }
+    ],
+    "firstThreeEdges": [
+      {
+        "a": 122,
+        "b": 63
+      },
+      {
+        "a": 55,
+        "b": 35
+      },
+      {
+        "a": 166,
+        "b": 53
+      }
+    ],
+    "paletteHues": [
+      6.1892,
+      76.6396,
+      107.4505,
+      168.6517,
+      255.2883,
+      310.3333
+    ],
+    "sealConnectionsDrawn": 60,
+    "firstConnectionColor": {
+      "hue": 6.1892,
+      "sat": 62,
+      "light": 42
+    }
+  },
+  {
+    "label": "Block 968,332",
+    "hex": "0000000000000000000002109164aaa860965bdb479e02f00a9a182b3169a89f",
+    "hashOfHash": "b22669be795322962c7d9f23bf4afca5eda727e5a7f763f724f15eb1b91dd2b6",
+    "seed": 2988861886,
+    "nodeCount": 111,
+    "edgeCount": 252,
+    "firstThreeNodes": [
+      {
+        "x": 0.279355,
+        "y": -0.671938,
+        "z": 0.813935
+      },
+      {
+        "x": 0.467301,
+        "y": -0.021195,
+        "z": -0.29118
+      },
+      {
+        "x": 0.443173,
+        "y": -0.094385,
+        "z": -0.409169
+      }
+    ],
+    "firstThreeEdges": [
+      {
+        "a": 46,
+        "b": 89
+      },
+      {
+        "a": 71,
+        "b": 49
+      },
+      {
+        "a": 90,
+        "b": 31
+      }
+    ],
+    "paletteHues": [
+      273.7748,
+      333.5345,
+      34.8859,
+      103.3243,
+      172.7538,
+      232.7538
+    ],
+    "sealConnectionsDrawn": 60,
+    "firstConnectionColor": {
+      "hue": 273.7748,
+      "sat": 62,
+      "light": 42
+    }
+  },
+  {
+    "label": "Block 968,333",
+    "hex": "0000000000000000000114cac286c6226a127ead565e24378cde3c98a42e6724",
+    "hashOfHash": "b7c722f81214d7390298682ad464bfe13770c2db61b55c17874ad0220a641659",
+    "seed": 3083281144,
+    "nodeCount": 18,
+    "edgeCount": 41,
+    "firstThreeNodes": [
+      {
+        "x": 0.251837,
+        "y": 0.401287,
+        "z": 0.268396
+      },
+      {
+        "x": 0.440791,
+        "y": -0.068818,
+        "z": -0.342073
+      },
+      {
+        "x": 0.68207,
+        "y": 0.139798,
+        "z": -0.449744
+      }
+    ],
+    "firstThreeEdges": [
+      {
+        "a": 1,
+        "b": 5
+      },
+      {
+        "a": 2,
+        "b": 10
+      },
+      {
+        "a": 8,
+        "b": 2
+      }
+    ],
+    "paletteHues": [
+      150.4414,
+      55.8468
+    ],
+    "sealConnectionsDrawn": 37,
+    "firstConnectionColor": {
+      "hue": 150.4414,
+      "sat": 62,
+      "light": 42
+    }
+  },
+  {
+    "label": "Block 968,334",
+    "hex": "000000000000000000016b14226e00ccddd84886b1a754c05b0330a3065db31b",
+    "hashOfHash": "c24b8be9cf826dcc50602327b4af9c6daedc4602deec5afe611c6c766076f934",
+    "seed": 3259730921,
+    "nodeCount": 220,
+    "edgeCount": 430,
+    "firstThreeNodes": [
+      {
+        "x": -0.147224,
+        "y": -0.101058,
+        "z": 0.429761
+      },
+      {
+        "x": 0.493279,
+        "y": -0.421227,
+        "z": 0.799393
+      },
+      {
+        "x": 0.210734,
+        "y": 0.544874,
+        "z": -0.58571
+      }
+    ],
+    "firstThreeEdges": [
+      {
+        "a": 40,
+        "b": 198
+      },
+      {
+        "a": 214,
+        "b": 92
+      },
+      {
+        "a": 84,
+        "b": 9
+      }
+    ],
+    "paletteHues": [
+      107.3483,
+      153.9249,
+      237.7087,
+      271.3423,
+      340.7117,
+      51.042
+    ],
+    "sealConnectionsDrawn": 60,
+    "firstConnectionColor": {
+      "hue": 107.3483,
+      "sat": 62,
+      "light": 42
+    }
+  },
+  {
+    "label": "Block 968,335",
+    "hex": "000000000000000000017bc179400a757883077f72465c9837e6f79040e94eb8",
+    "hashOfHash": "a882c76b5437ac93df3bef51db9515264ef1d38dbeb9f0cd1be4f5e1c4fb2d64",
+    "seed": 2827143019,
+    "nodeCount": 75,
+    "edgeCount": 178,
+    "firstThreeNodes": [
+      {
+        "x": 0.603503,
+        "y": 0.846219,
+        "z": 0.780987
+      },
+      {
+        "x": -0.271571,
+        "y": 0.338569,
+        "z": 0.359988
+      },
+      {
+        "x": -0.527625,
+        "y": -0.485425,
+        "z": -0.569529
+      }
+    ],
+    "firstThreeEdges": [
+      {
+        "a": 66,
+        "b": 32
+      },
+      {
+        "a": 11,
+        "b": 33
+      },
+      {
+        "a": 55,
+        "b": 72
+      }
+    ],
+    "paletteHues": [
+      47.9505,
+      165.518,
+      219.9324,
+      338.8063
+    ],
+    "sealConnectionsDrawn": 59,
+    "firstConnectionColor": {
+      "hue": 47.9505,
+      "sat": 62,
+      "light": 42
+    }
+  },
+  {
+    "label": "Block 968,336",
+    "hex": "0000000000000000000007d1ebb6dd7630f07038e130cfba5f854b9e8cbd1c01",
+    "hashOfHash": "18d122b6c4d46f23d0db33cb21afb66742009b5f4671707e2bbaeae668786f3b",
+    "seed": 416359094,
+    "nodeCount": 208,
+    "edgeCount": 408,
+    "firstThreeNodes": [
+      {
+        "x": -0.832311,
+        "y": 0.080865,
+        "z": -0.063403
+      },
+      {
+        "x": -0.241394,
+        "y": -0.330074,
+        "z": 0.697333
+      },
+      {
+        "x": -0.469017,
+        "y": 0.203831,
+        "z": -0.134997
+      }
+    ],
+    "firstThreeEdges": [
+      {
+        "a": 14,
+        "b": 148
+      },
+      {
+        "a": 54,
+        "b": 41
+      },
+      {
+        "a": 161,
+        "b": 49
+      }
+    ],
+    "paletteHues": [
+      144.9069,
+      258.0601,
+      76.979
+    ],
+    "sealConnectionsDrawn": 60,
+    "firstConnectionColor": {
+      "hue": 144.9069,
+      "sat": 62,
+      "light": 42
+    }
+  },
+  {
+    "label": "Block 968,337",
+    "hex": "00000000000000000001db77a1f76367b2bafc8479760532840f4e3b2e8fc02e",
+    "hashOfHash": "dc30cfc58e752096e29995b05672259244b131007b017ee26347a291cabecc83",
+    "seed": 3694186437,
+    "nodeCount": 133,
+    "edgeCount": 295,
+    "firstThreeNodes": [
+      {
+        "x": -0.284072,
+        "y": 0.116997,
+        "z": 0.533403
+      },
+      {
+        "x": 0.0751,
+        "y": -0.280123,
+        "z": -0.17659
+      },
+      {
+        "x": 0.615323,
+        "y": -0.791564,
+        "z": 0.25793
+      }
+    ],
+    "firstThreeEdges": [
+      {
+        "a": 19,
+        "b": 18
+      },
+      {
+        "a": 53,
+        "b": 52
+      },
+      {
+        "a": 6,
+        "b": 3
+      }
+    ],
+    "paletteHues": [
+      97.7793,
+      179.8964,
+      273.455,
+      13.5
+    ],
+    "sealConnectionsDrawn": 59,
+    "firstConnectionColor": {
+      "hue": 97.7793,
+      "sat": 62,
+      "light": 42
+    }
+  },
+  {
+    "label": "Block 968,338",
+    "hex": "0000000000000000000211a8057995c423a8e8d87882d30c325ee474668ebd0f",
+    "hashOfHash": "7e368f4cedd938716f7c5e64aa2c6721069b808da1b5ae20e5517f31e7761e36",
+    "seed": 2117504844,
+    "nodeCount": 215,
+    "edgeCount": 492,
+    "firstThreeNodes": [
+      {
+        "x": 0.553904,
+        "y": -0.568134,
+        "z": 0.321683
+      },
+      {
+        "x": 0.642907,
+        "y": -0.663491,
+        "z": 0.024243
+      },
+      {
+        "x": 0.2565,
+        "y": 0.235484,
+        "z": 0.158695
+      }
+    ],
+    "firstThreeEdges": [
+      {
+        "a": 30,
+        "b": 7
+      },
+      {
+        "a": 101,
+        "b": 188
+      },
+      {
+        "a": 143,
+        "b": 138
+      }
+    ],
+    "paletteHues": [
+      259.3303,
+      15.2462,
+      111.042
+    ],
+    "sealConnectionsDrawn": 60,
+    "firstConnectionColor": {
+      "hue": 259.3303,
+      "sat": 62,
+      "light": 42
+    }
+  }
+]
